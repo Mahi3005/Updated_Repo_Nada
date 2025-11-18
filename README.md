@@ -1,1 +1,1 @@
-# this is a diabetes predction model integrated with nillion netwrorks
+# this is a diabetes predction model integrated with nillion networks
